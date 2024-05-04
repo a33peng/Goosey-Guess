@@ -1,0 +1,13 @@
+/* import text fonts */ 
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Nabla&display=swap');
+
+/* Background and font style */ 
+body { 
+  font-family: Nabla, system-ui; 
+  margin: 0; 
+  font-size: 1.5em; 
+  text-align: center; 
+  background: #1b1523; 
+  color: #fff; 
+}
